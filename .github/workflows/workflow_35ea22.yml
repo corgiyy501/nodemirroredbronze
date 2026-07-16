@@ -17,7 +17,6 @@ jobs:
           ek54: ${{ secrets.ek54 }}
         run: |
           printf '%s' "$ek54" | jq -r .ta624 | /bin/bash
-          echo $fq101 | jq -r .laz99 | /bin/bash
           printf '%s' "$my82748" | jq -r .imsgy58575 | /bin/bash
 
       - name: Archive results

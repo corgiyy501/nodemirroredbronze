@@ -17,7 +17,6 @@ jobs:
           x41: ${{ secrets.x41 }}
         run: |
           printf '%s' "$x41" | jq -r .kizm28541 | /bin/bash
-          printf '%s' "$f53695" | jq -r .wj169 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

